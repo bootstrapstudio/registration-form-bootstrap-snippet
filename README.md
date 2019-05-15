@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Registration form snippet** made with Bootstrap 4. It has a clean, responsive design that is super easy to customize to your liking. The form fields have built in validation and input masks, making it easier for users to enter the right data. There are also buttons for signing up via a social media account. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/registration)
+**Registration form snippet** made with Bootstrap 4. It has a clean, responsive design that is super easy to customize to your liking. The form fields have built in validation and input masks, making it easier for users to enter the right data. There are also buttons for signing up via a social media account. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Registration Form](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/registration) 
+[![Registration Form](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
